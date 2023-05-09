@@ -1,0 +1,20 @@
+c'nin derleyicisi gcc
+gcc h1p1.c generates "a.out"
+
+The format specifiers or conversion characters are used to specify the type of data that should be printed or read with the printf() and scanf() functions in C. Here are the most common format specifiers and their signs:
+
+%d : signed integer
+%u : unsigned integer
+%ld : signed long integer
+%lu : unsigned long integer
+%lld : signed long long integer
+%llu : unsigned long long integer
+%f : floating-point number with six digits of precision
+%lf : double precision floating-point number
+%c : character
+%s : string
+%p : pointer
+%x or %X : hexadecimal integer
+%o : octal integer
+%e or %E : scientific notation with lowercase or uppercase "E"
+%g or %G : a shorter version of %f or %e, depending on the value
