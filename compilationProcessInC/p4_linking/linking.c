@@ -1,0 +1,6 @@
+/*
+Linker is a program that converts object code to executable code and also combines all object codes together.
+It includes library files into our program.
+Library Files are some predefined files that contain the definition of the functions in the machine language and these files have an extension of .lib.
+Linker generates executable file with .exe extension in Windows and without any extension in UNIX.
+*/
